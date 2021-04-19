@@ -1,0 +1,12 @@
+/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/obj/Debug/netcoreapp3.1/BuilderAndCheckOrder.csprojAssemblyReference.cache
+/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/obj/Debug/netcoreapp3.1/BuilderAndCheckOrder.AssemblyInfoInputs.cache
+/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/obj/Debug/netcoreapp3.1/BuilderAndCheckOrder.AssemblyInfo.cs
+/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/obj/Debug/netcoreapp3.1/BuilderAndCheckOrder.csproj.CoreCompileInputs.cache
+/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/bin/Debug/netcoreapp3.1/BuilderAndCheckOrder.deps.json
+/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/bin/Debug/netcoreapp3.1/BuilderAndCheckOrder.runtimeconfig.json
+/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/bin/Debug/netcoreapp3.1/BuilderAndCheckOrder.runtimeconfig.dev.json
+/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/bin/Debug/netcoreapp3.1/BuilderAndCheckOrder.dll
+/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/bin/Debug/netcoreapp3.1/BuilderAndCheckOrder.pdb
+/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/obj/Debug/netcoreapp3.1/BuilderAndCheckOrder.dll
+/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/obj/Debug/netcoreapp3.1/BuilderAndCheckOrder.pdb
+/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/obj/Debug/netcoreapp3.1/BuilderAndCheckOrder.genruntimeconfig.cache

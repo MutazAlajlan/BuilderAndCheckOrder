@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/BuilderAndCheckOrder.csproj",
+      "projectUniqueName": "/Users/rook/Desktop/BuilderAndCheckOrder/BuilderAndCheckOrder/BuilderAndCheckOrder.csproj",
       "projectName": "BuilderAndCheckOrder",
-      "projectPath": "/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/BuilderAndCheckOrder.csproj",
+      "projectPath": "/Users/rook/Desktop/BuilderAndCheckOrder/BuilderAndCheckOrder/BuilderAndCheckOrder.csproj",
       "packagesPath": "/Users/rook/.nuget/packages/",
-      "outputPath": "/Users/rook/Projects/BuilderAndCheckOrder/BuilderAndCheckOrder/obj/",
+      "outputPath": "/Users/rook/Desktop/BuilderAndCheckOrder/BuilderAndCheckOrder/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rook/.config/NuGet/NuGet.Config"

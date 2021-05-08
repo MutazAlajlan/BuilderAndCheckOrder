@@ -86,6 +86,7 @@ namespace BuilderAndCheckOrder
             string falseNumbers = "1234321";
             Console.WriteLine(CheckOrder(numbers));
             Console.WriteLine(CheckOrder(falseNumbers));
+            Console.WriteLine(CheckOrder("1122345543"));
 
         }
     }
